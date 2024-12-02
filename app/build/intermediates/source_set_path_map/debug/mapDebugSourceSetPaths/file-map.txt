@@ -1,0 +1,38 @@
+com.aigemini.app-emoji2-views-helper-1.3.0-0 C:\Users\LENOVO\.gradle\caches\transforms-4\0094da3ec42e6e93df19128911f61efc\transformed\emoji2-views-helper-1.3.0\res
+com.aigemini.app-material-1.12.0-1 C:\Users\LENOVO\.gradle\caches\transforms-4\0c00403726cb331092fcd0710f90dbda\transformed\material-1.12.0\res
+com.aigemini.app-drawerlayout-1.1.1-2 C:\Users\LENOVO\.gradle\caches\transforms-4\1325cb62b008b802bbdd4895cfc59fc2\transformed\drawerlayout-1.1.1\res
+com.aigemini.app-appcompat-1.7.0-3 C:\Users\LENOVO\.gradle\caches\transforms-4\2677f20bce9506110f65f290fc7ddd06\transformed\appcompat-1.7.0\res
+com.aigemini.app-lifecycle-livedata-core-2.6.2-4 C:\Users\LENOVO\.gradle\caches\transforms-4\36da6afdc0f2647d32b8a470ecfd3ef8\transformed\lifecycle-livedata-core-2.6.2\res
+com.aigemini.app-viewpager2-1.0.0-5 C:\Users\LENOVO\.gradle\caches\transforms-4\568128369a4dda6a7a406f722f6e6230\transformed\viewpager2-1.0.0\res
+com.aigemini.app-lottie-6.4.1-6 C:\Users\LENOVO\.gradle\caches\transforms-4\5e3716170383e38a4bdefc4e9de972c5\transformed\lottie-6.4.1\res
+com.aigemini.app-lifecycle-livedata-2.6.2-7 C:\Users\LENOVO\.gradle\caches\transforms-4\706aa2f4f543a6519cedeba19610ce85\transformed\lifecycle-livedata-2.6.2\res
+com.aigemini.app-annotation-experimental-1.4.0-8 C:\Users\LENOVO\.gradle\caches\transforms-4\7c064cad9f810f395e70a0ee2ec389b0\transformed\annotation-experimental-1.4.0\res
+com.aigemini.app-emoji2-1.3.0-9 C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\res
+com.aigemini.app-core-ktx-1.13.0-10 C:\Users\LENOVO\.gradle\caches\transforms-4\7fdc736832550229ffddfa3a60a63f76\transformed\core-ktx-1.13.0\res
+com.aigemini.app-lifecycle-viewmodel-2.6.2-11 C:\Users\LENOVO\.gradle\caches\transforms-4\80e6be7e29f1960b27d43ecb120b6b68\transformed\lifecycle-viewmodel-2.6.2\res
+com.aigemini.app-dexter-6.2.3-12 C:\Users\LENOVO\.gradle\caches\transforms-4\85b9a1c9cc67873fbe09f5da7bc5bcd8\transformed\dexter-6.2.3\res
+com.aigemini.app-lifecycle-process-2.6.2-13 C:\Users\LENOVO\.gradle\caches\transforms-4\9833fa1a6f65a2dc4c68691e7b7610b4\transformed\lifecycle-process-2.6.2\res
+com.aigemini.app-startup-runtime-1.1.1-14 C:\Users\LENOVO\.gradle\caches\transforms-4\9991ef40cf72c86226417238e4d85bf9\transformed\startup-runtime-1.1.1\res
+com.aigemini.app-fragment-1.5.4-15 C:\Users\LENOVO\.gradle\caches\transforms-4\9fe25ffec57d2cd71068e0ded0bd1d0b\transformed\fragment-1.5.4\res
+com.aigemini.app-core-1.13.0-16 C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\res
+com.aigemini.app-appcompat-resources-1.7.0-17 C:\Users\LENOVO\.gradle\caches\transforms-4\a7e48428db8c444a821d057ad61cde70\transformed\appcompat-resources-1.7.0\res
+com.aigemini.app-profileinstaller-1.3.1-18 C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\res
+com.aigemini.app-cardview-1.0.0-19 C:\Users\LENOVO\.gradle\caches\transforms-4\b068c1a1487a47e7a851debe4ec438ac\transformed\cardview-1.0.0\res
+com.aigemini.app-play-services-base-18.5.0-20 C:\Users\LENOVO\.gradle\caches\transforms-4\b4b51ecb9ade1de6d7346f3a4fc3b281\transformed\play-services-base-18.5.0\res
+com.aigemini.app-recyclerview-1.1.0-21 C:\Users\LENOVO\.gradle\caches\transforms-4\b6f1eeea5ec1dc6e1f356a2e18f68023\transformed\recyclerview-1.1.0\res
+com.aigemini.app-savedstate-1.2.1-22 C:\Users\LENOVO\.gradle\caches\transforms-4\ba9bdcb5686813869881ab6cc8a6f933\transformed\savedstate-1.2.1\res
+com.aigemini.app-lifecycle-runtime-2.6.2-23 C:\Users\LENOVO\.gradle\caches\transforms-4\c9330b671f9e6b2483e474e277f7d87e\transformed\lifecycle-runtime-2.6.2\res
+com.aigemini.app-coordinatorlayout-1.1.0-24 C:\Users\LENOVO\.gradle\caches\transforms-4\c9a1cee0a2c9b0327d90f47c55ca5e3a\transformed\coordinatorlayout-1.1.0\res
+com.aigemini.app-activity-1.9.0-25 C:\Users\LENOVO\.gradle\caches\transforms-4\cc278d951d84fb874adb4e56158971bf\transformed\activity-1.9.0\res
+com.aigemini.app-lifecycle-viewmodel-savedstate-2.6.2-26 C:\Users\LENOVO\.gradle\caches\transforms-4\ce43c16e729f63d4842c75648df9243e\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.aigemini.app-core-runtime-2.2.0-27 C:\Users\LENOVO\.gradle\caches\transforms-4\d1b1e6303531a4b306cc5595186920a9\transformed\core-runtime-2.2.0\res
+com.aigemini.app-transition-1.5.0-28 C:\Users\LENOVO\.gradle\caches\transforms-4\d3ba87c722f0c94f0fd744a008ca8d6b\transformed\transition-1.5.0\res
+com.aigemini.app-play-services-basement-18.4.0-29 C:\Users\LENOVO\.gradle\caches\transforms-4\e6d5cae2d105f265a26c74daf03495a4\transformed\play-services-basement-18.4.0\res
+com.aigemini.app-constraintlayout-2.1.4-30 C:\Users\LENOVO\.gradle\caches\transforms-4\eecd4b58ca62f370a267011948570e3b\transformed\constraintlayout-2.1.4\res
+com.aigemini.app-pngs-31 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\build\generated\res\pngs\debug
+com.aigemini.app-resValues-32 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\build\generated\res\resValues\debug
+com.aigemini.app-packageDebugResources-33 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.aigemini.app-packageDebugResources-34 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.aigemini.app-debug-35 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.aigemini.app-debug-36 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\debug\res
+com.aigemini.app-main-37 D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\res

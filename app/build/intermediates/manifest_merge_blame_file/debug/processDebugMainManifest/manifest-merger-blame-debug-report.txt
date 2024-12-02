@@ -1,0 +1,203 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.aigemini"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:7:5-81
+13-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:8:5-80
+14-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:9:5-81
+15-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:10:5-65
+16-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:10:22-62
+17
+18    <uses-feature
+18-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:12:5-14:36
+19        android:name="android.hardware.camera"
+19-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:13:9-47
+20        android:required="false" />
+20-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:14:9-33
+21
+22    <permission
+22-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+23        android:name="com.aigemini.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+23-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+24        android:protectionLevel="signature" />
+24-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+25
+26    <uses-permission android:name="com.aigemini.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+26-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+26-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+27
+28    <application
+28-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:16:5-49:19
+29        android:allowBackup="false"
+29-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:17:9-36
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.13.0] C:\Users\LENOVO\.gradle\caches\transforms-4\a6f251c44802e5fbcf5bc08af26c602e\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+31        android:dataExtractionRules="@xml/data_extraction_rules"
+31-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:18:9-65
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:fullBackupContent="@xml/backup_rules"
+34-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:19:9-54
+35        android:icon="@mipmap/ic_launcher"
+35-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:20:9-43
+36        android:label="@string/app_name"
+36-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:21:9-41
+37        android:requestLegacyExternalStorage="true"
+37-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:26:9-52
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:22:9-54
+39        android:supportsRtl="true"
+39-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:23:9-35
+40        android:testOnly="true"
+41        android:theme="@style/Theme.ExampleGeminiAI"
+41-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:24:9-53
+42        android:usesCleartextTraffic="true" >
+42-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:25:9-44
+43        <activity
+43-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:28:9-38:20
+44            android:name="com.kel3.geminiai.activities.MainActivity"
+44-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:29:13-69
+45            android:configChanges="keyboardHidden|orientation|screenSize"
+45-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:30:13-74
+46            android:exported="true"
+46-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:32:13-36
+47            android:windowSoftInputMode="adjustPan" >
+47-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:31:13-52
+48            <intent-filter>
+48-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:33:13-37:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:34:17-69
+49-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:34:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:36:17-77
+51-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:36:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <provider
+56            android:name="androidx.core.content.FileProvider"
+56-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:41:13-62
+57            android:authorities="com.aigemini.provider"
+57-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:42:13-60
+58            android:exported="false"
+58-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:43:13-37
+59            android:grantUriPermissions="true" >
+59-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:44:13-47
+60            <meta-data
+60-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:45:13-47:54
+61                android:name="android.support.FILE_PROVIDER_PATHS"
+61-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:46:17-67
+62                android:resource="@xml/file_paths" />
+62-->D:\KULIAH\FIAN SEMESTER 5\Pemograman Mobile\AndroidStudioProjects\Ai-Gemini\app\src\main\AndroidManifest.xml:47:17-51
+63        </provider>
+64
+65        <activity
+65-->[com.karumi:dexter:6.2.3] C:\Users\LENOVO\.gradle\caches\transforms-4\85b9a1c9cc67873fbe09f5da7bc5bcd8\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+66            android:name="com.karumi.dexter.DexterActivity"
+66-->[com.karumi:dexter:6.2.3] C:\Users\LENOVO\.gradle\caches\transforms-4\85b9a1c9cc67873fbe09f5da7bc5bcd8\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
+67            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+67-->[com.karumi:dexter:6.2.3] C:\Users\LENOVO\.gradle\caches\transforms-4\85b9a1c9cc67873fbe09f5da7bc5bcd8\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
+68        <activity
+68-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\LENOVO\.gradle\caches\transforms-4\b4b51ecb9ade1de6d7346f3a4fc3b281\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+69            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+69-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\LENOVO\.gradle\caches\transforms-4\b4b51ecb9ade1de6d7346f3a4fc3b281\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\LENOVO\.gradle\caches\transforms-4\b4b51ecb9ade1de6d7346f3a4fc3b281\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\LENOVO\.gradle\caches\transforms-4\b4b51ecb9ade1de6d7346f3a4fc3b281\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+72
+73        <meta-data
+73-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\LENOVO\.gradle\caches\transforms-4\e6d5cae2d105f265a26c74daf03495a4\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+74            android:name="com.google.android.gms.version"
+74-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\LENOVO\.gradle\caches\transforms-4\e6d5cae2d105f265a26c74daf03495a4\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+75            android:value="@integer/google_play_services_version" />
+75-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\LENOVO\.gradle\caches\transforms-4\e6d5cae2d105f265a26c74daf03495a4\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+76
+77        <provider
+77-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+78            android:name="androidx.startup.InitializationProvider"
+78-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+79            android:authorities="com.aigemini.androidx-startup"
+79-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+80            android:exported="false" >
+80-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+81            <meta-data
+81-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+82                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+82-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+83                android:value="androidx.startup" />
+83-->[androidx.emoji2:emoji2:1.3.0] C:\Users\LENOVO\.gradle\caches\transforms-4\7cb78c6295acd630e700d5198775093c\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+84            <meta-data
+84-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-4\9833fa1a6f65a2dc4c68691e7b7610b4\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+85                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+85-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-4\9833fa1a6f65a2dc4c68691e7b7610b4\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+86                android:value="androidx.startup" />
+86-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LENOVO\.gradle\caches\transforms-4\9833fa1a6f65a2dc4c68691e7b7610b4\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+87            <meta-data
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+88                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+89                android:value="androidx.startup" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+90        </provider>
+91
+92        <receiver
+92-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+93            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+94            android:directBootAware="false"
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+95            android:enabled="true"
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+96            android:exported="true"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+97            android:permission="android.permission.DUMP" >
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+98            <intent-filter>
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+99                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+100            </intent-filter>
+101            <intent-filter>
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+102                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+102-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+103            </intent-filter>
+104            <intent-filter>
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+105                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+105-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+106            </intent-filter>
+107            <intent-filter>
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+108                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+108-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\LENOVO\.gradle\caches\transforms-4\a9f7fe2a96386d4cc8317a0e30208557\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+109            </intent-filter>
+110        </receiver>
+111    </application>
+112
+113</manifest>
